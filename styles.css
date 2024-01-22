@@ -1,0 +1,18 @@
+body {
+    width: 400px;
+    height: 450px;
+    text-align: center;
+  }
+
+  #memeContainer {
+    margin-top: 20px;
+  }
+
+  button {
+    background: red;
+    color: white;
+    font-family: "Arial", sans-serif;
+    font-size: 16px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
